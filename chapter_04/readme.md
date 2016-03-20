@@ -1,7 +1,7 @@
-# Chapter:04
+# Chapter 04
 ## Implementing methods
 ## Objectives:
-*by tge end of this chapter you should be able to:*
+*by the end of this chapter you should be able to:*
 - eplain of meaning if the therm **method**;
 - declare and defince methods;
 - call a method;
