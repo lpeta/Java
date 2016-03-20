@@ -1,5 +1,5 @@
-# Chapter 04
-## Implementing methods
+## Chapter 04
+# Implementing methods
 ## Objectives:
 *by the end of this chapter you should be able to:*
 - eplain of meaning if the therm **method**;
