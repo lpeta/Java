@@ -1,3 +1,7 @@
+/**
+ * The Quilo CLASS will transform from kilo to pound
+ */
+
 import java.util.*;
 public class Quilo
 {

@@ -1,5 +1,5 @@
 /**
- * The FindCost3 allow the user to imput the produt price and TAX rate... The
+ * The FindCost3 class allow the user to imput the produt price and TAX rate... The
  * program will output the total value.
  */
 import java.util.*;
