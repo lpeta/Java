@@ -1,6 +1,10 @@
-# Chapter 02: Selection
+### Chapter 02
 
-By the end of this Chapter you should be able to:
+## Selection
+
+### Objectives:
+
+*By the end of this Chapter you should be able to:*
 
 * explain the diference of between *sequence* and *selection*;
 * use an if statement to make a single choice in a program;
