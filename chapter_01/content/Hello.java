@@ -1,3 +1,6 @@
+/**
+ * Just another Hello World program.
+ */
 public class Hello
 {
   public static void main(String[] args)

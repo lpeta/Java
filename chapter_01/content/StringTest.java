@@ -1,5 +1,11 @@
+/**
+ * Import all java classes for StringTest
+ */
 import java.util.*;
-
+/**
+ * The StrignTes class is small program tha calculate and display
+ * ages.
+ */
 public class StringTest
 {
   public static void main(String[] args) {
@@ -14,6 +20,5 @@ public class StringTest
     System.out.println();
     System.out.println("Hello " + name );
     System.out.println("When I was your age I was "  + (age +1));
-
   }
 }

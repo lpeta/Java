@@ -1,6 +1,9 @@
+/**
+ * The FindCost class calculate the product cost after deduct 17.5% of
+ * tax.
+ */
 public class FindCost
 {
-
   public static void main(String[] args) {
     double price, tax;
     price = 500;

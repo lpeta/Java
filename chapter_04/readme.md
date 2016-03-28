@@ -10,4 +10,4 @@
 - indentity the scope of a particular variable;
 - explain the **scope** of a particular variable;
 - explain the meaning of ther term **polymorphsim**;
-- declare and use **overloaded methods**
+- declare and use **overloaded** methods.
