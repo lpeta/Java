@@ -1,8 +1,8 @@
-### Chapter 02
+#### Chapter 02
 
-## Selection
+# Selection
 
-### Objectives:
+#### Objectives:
 
 *By the end of this Chapter you should be able to:*
 
