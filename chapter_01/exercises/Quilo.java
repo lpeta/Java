@@ -1,7 +1,6 @@
 /**
  * The Quilo CLASS will transform from kilo to pound
  */
-
 import java.util.*;
 public class Quilo
 {
@@ -14,6 +13,5 @@ public class Quilo
     p = sc.nextDouble();
     k = p/2.2;
     System.out.println("The value in Kilos is " + k);
-
     }
 }
