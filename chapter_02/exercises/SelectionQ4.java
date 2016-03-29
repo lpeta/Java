@@ -7,8 +7,9 @@ public class SelectionQ4 {
     int x;
     Scanner sc = new Scanner(System.in);
     System.out.print ("Enter a number: ");
-    x = sc.nextInt();
-    if (x > 10) {
+    x = sc.nextInt();// store user imput
+
+    if (x > 10) { // if input number is biger than 10
       System.out.println("Green");
       System.out.println("Blue");
     }

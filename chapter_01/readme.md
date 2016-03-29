@@ -1,6 +1,6 @@
 ###Chapter 01
 
-## The first step
+# The first step
 
 ### Objectives:
 
