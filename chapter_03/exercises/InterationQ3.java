@@ -1,6 +1,6 @@
 /**
- * InterationQ3 calculating the value of a inter and print it only if is a
- * whole number
+ * InterationQ3 test numbers for 1 to 10 and and print it only if the number
+ * is divisible by 2
  *
  */
 public class InterationQ3 {
