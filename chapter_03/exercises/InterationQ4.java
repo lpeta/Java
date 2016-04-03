@@ -1,3 +1,8 @@
+/**
+ * The InterationQ4 ckass allow user to keep guessing a secret number
+ *
+ *
+ */
 import java.util.*;
 
 public class InterationQ4 {
