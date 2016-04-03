@@ -3,7 +3,6 @@
  * after loop interation
  *
  */
-
 import java.util.*;
 
 public class InterationQ2 {

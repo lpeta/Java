@@ -1,5 +1,5 @@
 /**
- * The InterationQ4 ckass allow user to keep guessing a secret number
+ * The InterationQ4 class allow user to keep guessing a secret number
  *
  *
  */
